@@ -86,10 +86,10 @@ artifacts:
       download_url: "https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip"
     - name: canary
       title: canary
-      download_url: "https://github.com/xenia-canary/xenia-canary/releases/latest"
+      download_url: "https://github.com/xenia-canary/xenia-canary/releases/latest/download/xenia_canary_windows.7z"
     - name: netplay
       title: netplay
-      download_url: "https://github.com/AdrianCassar/xenia-canary/releases/"
+      download_url: "https://github.com/AdrianCassar/xenia-canary/releases/latest"
     - name: edge
       title: edge
       download_url: "https://github.com/has207/xenia-edge/releases/latest"
@@ -98,7 +98,7 @@ artifacts:
     branches:
     - name: canary
       title: canary
-      download_url: "https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_linux.tar.gz"
+      download_url: "https://github.com/xenia-canary/xenia-canary/releases/latest/download/xenia_canary_linux.AppImage"
     - name: edge
       title: edge
       download_url: "https://github.com/has207/xenia-edge/releases/latest"

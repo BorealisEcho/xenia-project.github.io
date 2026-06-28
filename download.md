@@ -25,7 +25,7 @@ Before downloading any version of Xenia below, read the [Quickstart](https://git
 [System Requirements](https://github.com/xenia-project/xenia/wiki/Quickstart#system-requirements)
 
 <div>
-	<p>MacOS and ARM64 support are currently under development for xenia_edge.</p>
-	
-	<p style="background-color:yellow;">Xenia UWP (Xenia on Xbox Series S/X) is not made by or endorsed by the Xenia team.</p>
+    <p>MacOS and ARM64 support are currently under development for xenia_edge.</p>
+
+    <p style="background-color:yellow;">Xenia UWP (Xenia on Xbox Series S/X) is not made by or endorsed by the Xenia team.</p>
 </div>
